@@ -42,9 +42,6 @@ Aspiring Software Developer | MERN Stack Enthusiast | Problem Solver
 
 ---
 
-
-![Snake animation](https://github.com/Manit4011/Manit4011/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐️ Feel free to check out my repositories and contribute!
