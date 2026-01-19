@@ -1,4 +1,4 @@
-# Hi, I'm Tayyaba Tabassum 
+# Hi, I'm Manit Nayak
 
 <pre>
                                   ___           ___           ___       ___       ___     
@@ -17,18 +17,10 @@
 ## About Me:
 
 
-- Actively participating in international events and hackathons. .
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
-- I got selected for the Stanford code-in-place program and taught Python to international students.
-- Typing speed 80 WPM.
-- Won speed programming competition at Beacon House International College.
-- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
-- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
-- Aspiring Full Stack developer(currently knows only frontend development).
-- Trainer @icodeguru(for data structures and algorithm)
-- I won the sac race at Punjab College (Both in FSc I and Fsc II).
-- I like watching podcasts and playing games and sports.
+-i am really try hard coder
+-i have done over 300+ dsa questions
+-i am interested in MERN stack development and Machine Learning
+-i've made several projects in both the domains which you can check out in my repos.
 
 ## Skill Set:
 
@@ -63,7 +55,7 @@
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/manit-nayak/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:tayyabadev@gmail.com"><img src="https://img.shields.io/badge/-tayyabadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
