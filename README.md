@@ -1,46 +1,61 @@
-# Hi there, I'm Manit Nayak 👋
+👋 Hi, I'm Manit Nayak
 
-## 🚀 About Me
-Aspiring Software Developer | AI ML, Data Science and MERN Stack Enthusiast | Problem Solver
+🎯 Aspiring Software Developer
+💡 Passionate about AI/ML, Data Science, and MERN Stack Development
+🧠 Problem Solver | Lifelong Learner | Tech Enthusiast
 
----
+🚀 About Me
 
-## 📊 GitHub Stats
+I am a motivated and curious software developer with a strong interest in building scalable web applications and exploring AI-driven solutions.
+I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manit4011&show_icons=true&theme=radical)
+🌱 Currently learning advanced MERN & Next.js
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manit4011&layout=compact&theme=radical)
+🔍 Exploring AI, Machine Learning & Data Science
 
----
+🤝 Open to collaboration and open-source contributions
 
-## 🛠 Tech Stack
+🎯 Goal: Become a well-rounded full-stack developer
 
-### 💻 Programming & Markup Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manit4011&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manit4011&layout=compact&theme=radical" alt="Top Languages" /> </p>
+🛠️ Tech Stack
+💻 Programming Languages
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+JavaScript (ES6+)
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Python
 
-### 🛠️ Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+⚙️ Frameworks & Libraries
 
----
+React.js
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manit-nayak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manitnayak001@gmail.com)
+Next.js
 
----
+Express.js
 
----
+🛢️ Databases
 
-⭐️ Feel free to check out my repositories and contribute!
+MongoDB
+
+MySQL
+
+🔧 Tools & Platforms
+
+Node.js
+
+Git & GitHub
+
+REST APIs
+
+🌍 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/manit-nayak" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:manitnayak001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🤝 Open to Opportunities
+
+Internships & Entry-level roles
+
+Hackathons & Tech collaborations
+
+Open-source contributions
+
+⭐ Feel free to explore my repositories, fork projects, or reach out for collaboration!
