@@ -1,61 +1,115 @@
-👋 Hi, I'm Manit Nayak
+# Hi, I'm Tayyaba Tabassum 
 
-🎯 Aspiring Software Developer
-💡 Passionate about AI/ML, Data Science, and MERN Stack Development
-🧠 Problem Solver | Lifelong Learner | Tech Enthusiast
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-🚀 About Me
+## About Me:
 
-I am a motivated and curious software developer with a strong interest in building scalable web applications and exploring AI-driven solutions.
-I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
-🌱 Currently learning advanced MERN & Next.js
+- Actively participating in international events and hackathons. .
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
+- I got selected for the Stanford code-in-place program and taught Python to international students.
+- Typing speed 80 WPM.
+- Won speed programming competition at Beacon House International College.
+- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
+- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
+- Aspiring Full Stack developer(currently knows only frontend development).
+- Trainer @icodeguru(for data structures and algorithm)
+- I won the sac race at Punjab College (Both in FSc I and Fsc II).
+- I like watching podcasts and playing games and sports.
 
-🔍 Exploring AI, Machine Learning & Data Science
+## Skill Set:
 
-🤝 Open to collaboration and open-source contributions
+<table><tr><td valign="top" width="25%">
 
-🎯 Goal: Become a well-rounded full-stack developer
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manit4011&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manit4011&layout=compact&theme=radical" alt="Top Languages" /> </p>
-🛠️ Tech Stack
-💻 Programming Languages
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-JavaScript (ES6+)
 
-Python
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:tayyabadev@gmail.com"><img src="https://img.shields.io/badge/-tayyabadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+        <a href="https://medium.com/@tayyabadev" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
+</div>
 
-⚙️ Frameworks & Libraries
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/tayyabadev">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
-React.js
 
-Next.js
+ <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
-Express.js
+<br>
 
-🛢️ Databases
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabadev" alt="tayyabadev" /></a> </p>
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-MongoDB
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-MySQL
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-🔧 Tools & Platforms
+#
 
-Node.js
+<!-- <div align="center">
+  <a href="https://github.com/tayyabadev">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
 
-Git & GitHub
 
-REST APIs
-
-🌍 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/manit-nayak" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:manitnayak001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-🤝 Open to Opportunities
-
-Internships & Entry-level roles
-
-Hackathons & Tech collaborations
-
-Open-source contributions
-
-⭐ Feel free to explore my repositories, fork projects, or reach out for collaboration!
